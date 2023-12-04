@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#ffffff</color>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>First Dashboard</name>
+        <no_tabs>false</no_tabs>
+        <notification_link_label/>
+        <notification_link_url/>
+        <notification_text/>
+        <order/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <restrict_to_roles/>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>arjun.ayyappan@snc</sys_created_by>
+        <sys_created_on>2023-12-04 10:30:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f30e59f87f2f950344bddb83cbb3548</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reporting dashboards" source="x_snc_reporting_da">12af955f87f2f950344bddb83cbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reporting dashboards">12af955f87f2f950344bddb83cbb3555</sys_scope>
+        <sys_update_name>pa_dashboards_0f30e59f87f2f950344bddb83cbb3548</sys_update_name>
+        <sys_updated_by>arjun.ayyappan@snc</sys_updated_by>
+        <sys_updated_on>2023-12-04 10:30:11</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+</record_update>
