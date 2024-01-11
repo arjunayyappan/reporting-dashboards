@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
     <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
-        <dashboard display_value="First Dashboard">0f30e59f87f2f950344bddb83cbb3548</dashboard>
+        <dashboard display_value="First Dashboard1">0f30e59f87f2f950344bddb83cbb3548</dashboard>
         <home>false</home>
         <homepage/>
         <order>1</order>
