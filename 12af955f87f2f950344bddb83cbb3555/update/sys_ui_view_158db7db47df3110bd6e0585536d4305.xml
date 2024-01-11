@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>pa_first_dashboard_-_new_tab</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>adriana.fiori@snc</sys_created_by>
+        <sys_created_on>2023-12-29 18:28:29</sys_created_on>
+        <sys_id>158db7db47df3110bd6e0585536d4305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pa_first_dashboard_-_new_tab</sys_name>
+        <sys_package display_value="Reporting dashboards" source="x_snc_reporting_da">12af955f87f2f950344bddb83cbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reporting dashboards">12af955f87f2f950344bddb83cbb3555</sys_scope>
+        <sys_update_name>sys_ui_view_158db7db47df3110bd6e0585536d4305</sys_update_name>
+        <sys_updated_by>adriana.fiori@snc</sys_updated_by>
+        <sys_updated_on>2023-12-29 18:28:29</sys_updated_on>
+        <title>Pa_first_dashboard_-_new_tab</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
